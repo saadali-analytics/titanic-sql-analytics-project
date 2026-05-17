@@ -1,5 +1,24 @@
 # 🚢 Titanic Survival Analysis — A Data Story in SQL
 
+# 📌 Table of Contents
+
+- [Executive Summary](#-executive-summary)
+- [Business / Analytical Objective](#-business--analytical-objective)
+- [Dataset Overview](#-dataset-overview)
+- [Data Story: What the Data Reveals](#-data-story-what-the-data-reveals)
+  - [1. Survival Was Strongly Driven by Social Rules](#1--survival-was-strongly-driven-by-social-rules)
+  - [2. Class Structure Directly Influenced Survival Access](#2--class-structure-directly-influenced-survival-access)
+  - [3. Age Effects Were Conditional, Not Absolute](#3--age-effects-were-conditional-not-absolute)
+  - [4. Wealth Improved Survival — But Did Not Guarantee It](#4--wealth-improved-survival--but-did-not-guarantee-it)
+  - [5. Family Size Showed a Non-Linear Pattern](#5--family-size-showed-a-non-linear-pattern)
+  - [6. Cabin Location Influenced Survival Probability](#6--cabin-location-influenced-survival-probability)
+  - [7. Embarkation Port Reflects Socioeconomic Segregation](#7--embarkation-port-reflects-socioeconomic-segregation)
+- [Key Takeaways (Core Insights)](#-key-takeaways-core-insights)
+- [Final Analytical Conclusion](#-final-analytical-conclusion)
+- [Analytical Methods Used](#-analytical-methods-used)
+- [What This Project Demonstrates](#-what-this-project-demonstrates)
+- [What Makes This Analysis Different](#-what-makes-this-analysis-different)
+
 ## 🧭 Executive Summary
 
 The sinking of the Titanic was not a random survival event.
