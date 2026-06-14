@@ -49,6 +49,8 @@ The data clearly reflects the historical “Women and Children First” policy.
 
 This suggests survival priority was socially enforced rather than random.
 
+![gender factor](image-url)
+
 ---
 
 ## 2. 🏛️ Class Structure Directly Influenced Survival Access
