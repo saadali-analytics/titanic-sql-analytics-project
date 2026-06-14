@@ -48,9 +48,11 @@ The data clearly reflects the historical “Women and Children First” policy.
 👉 Gender was the single strongest determinant of survival.
 
 This suggests survival priority was socially enforced rather than random.
+
 <br><br>
 ![gender factor](/images/1.png)
 <br><br>
+
 ---
 
 ## 2. 🏛️ Class Structure Directly Influenced Survival Access
@@ -63,6 +65,10 @@ Passenger class acted as a proxy for access to lifeboats and location on the shi
 
 👉 Higher social class increased physical proximity to evacuation routes.
 
+<br><br>
+![gender factor](/images/2.png)
+<br><br>
+
 ---
 
 ## 3. 👶 Age Effects Were Conditional, Not Absolute
@@ -74,6 +80,10 @@ Age alone did not determine survival — it interacted with gender and class.
 - Age advantage disappeared for lower-class passengers
 
 👉 Age only helped when combined with social priority (women/upper class).
+
+<br><br>
+![gender factor](/images/3.png)
+<br><br>
 
 ---
 
@@ -88,6 +98,10 @@ However:
 
 👉 Wealth increased opportunity, but gender determined priority.
 
+<br><br>
+![gender factor](/images/4.png)
+<br><br>
+
 ---
 
 ## 5. 👨‍👩‍👧 Family Size Showed a Non-Linear Pattern
@@ -100,6 +114,10 @@ Survival probability varied with family size:
 
 👉 Moderate family size may have improved coordination during evacuation.
 
+<br><br>
+![gender factor](/images/5.png)
+<br><br>
+
 ---
 
 ## 6. 🛏️ Cabin Location Influenced Survival Probability
@@ -110,6 +128,10 @@ Passengers with known cabin information generally survived more often.
 - Missing cabin data strongly correlated with low survival
 
 👉 Physical location on the ship influenced evacuation speed and access.
+
+<br><br>
+![gender factor](/images/6.png)
+<br><br>
 
 ---
 
