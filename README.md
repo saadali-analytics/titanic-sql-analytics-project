@@ -48,11 +48,8 @@ The data clearly reflects the historical “Women and Children First” policy.
 👉 Gender was the single strongest determinant of survival.
 
 This suggests survival priority was socially enforced rather than random.
-
 <br><br>
-
 ![gender factor](/images/1.png)
-
 <br><br>
 ---
 
