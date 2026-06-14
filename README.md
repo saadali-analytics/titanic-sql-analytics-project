@@ -49,7 +49,7 @@ The data clearly reflects the historical “Women and Children First” policy.
 
 This suggests survival priority was socially enforced rather than random.
 
-![gender factor](image-url)
+![gender factor](/images/1.png)
 
 ---
 
